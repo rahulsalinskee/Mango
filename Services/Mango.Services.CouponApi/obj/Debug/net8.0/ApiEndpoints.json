@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Mango.Services.CouponApi.Controllers.CouponController",
+    "Method": "GetAllCouponsAsync",
+    "RelativePath": "api/Coupon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.CouponApi.Controllers.CouponController",
+    "Method": "GetCouponByCodeAsync",
+    "RelativePath": "api/Coupon/{couponCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.CouponApi.Controllers.CouponController",
+    "Method": "GetCouponByIdAsync",
+    "RelativePath": "api/Coupon/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

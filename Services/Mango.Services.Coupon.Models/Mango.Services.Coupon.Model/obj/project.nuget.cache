@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeHVsf0DscPirz8imy0VCtGJ7RJQvVuOmWMiFYcazNira2gQ2y6DRrf10nZ64Rlva6HxX/CKx2AlBoZY9a2K2w==",
+  "success": true,
+  "projectFilePath": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Coupon.Models\\Mango.Services.Coupon.Model\\Mango.Services.Coupon.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

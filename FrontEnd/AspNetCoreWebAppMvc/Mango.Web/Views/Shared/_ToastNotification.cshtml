@@ -1,0 +1,35 @@
+﻿
+@* If - Any Error Occurred *@
+@if (TempData["ErrorMessage"] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    @* /* Reference Link: https://cdnjs.com/libraries/toastr.js This is a toast message script */ *@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js" 
+    integrity="sha512-lbwH47l/tPXJYG9AcFNoJaTMhGvYWhVM9YI43CT+uteTRRaiLCui8snIgyAN8XWgNjNhCqlAUdzZptso6OCoFQ==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer"></script>
+
+    <script type="application/json">
+        @* // Display an info toast with no title *@
+        toastr.error('@TempData["ErrorMessage"]');
+    </script>
+}
+
+@* if - Successful *@
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    @* /* Reference Link: https://cdnjs.com/libraries/toastr.js This is a toast message script */ *@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js" 
+    integrity="sha512-lbwH47l/tPXJYG9AcFNoJaTMhGvYWhVM9YI43CT+uteTRRaiLCui8snIgyAN8XWgNjNhCqlAUdzZptso6OCoFQ==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer"></script>
+
+    <script type="application/json">
+        @* // Display an info toast with no title *@
+        toastr.success('@TempData["SuccessMessage"]');
+    </script>
+}

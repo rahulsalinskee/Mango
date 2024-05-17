@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\couponserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\couponserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F0D069-6C12-48D4-9C77-DF9E1A5B9252}|Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.coupon.businesslogics\\mango.services.coupon.businesslogics\\repository\\implementations\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F0D069-6C12-48D4-9C77-DF9E1A5B9252}|Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics.csproj|solutionrelative:services\\mango.services.coupon.businesslogics\\mango.services.coupon.businesslogics\\repository\\implementations\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416D2451-1439-4F3F-931F-924A69026292}|Services\\Mango.Services.CouponApi\\Mango.Services.CouponApi.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D2451-1439-4F3F-931F-924A69026292}|Services\\Mango.Services.CouponApi\\Mango.Services.CouponApi.csproj|solutionrelative:services\\mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\cartserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\cartserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\productserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\implementations\\productserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\repository\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|g:\\code\\microservices\\microserviceswithdotnet8\\mango\\mango\\services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\dtos\\shoppingcart\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD83776-91CE-46AA-8937-622B7A4B3B84}|Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API.csproj|solutionrelative:services\\mango.services.shopping.cart.api\\mango.service.shopping.cart.api\\dtos\\shoppingcart\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Repository\\Implementations\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Repository\\Implementations\\CouponRepository.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Repository\\Implementations\\CouponRepository.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Coupon.BusinessLogics\\Mango.Services.Coupon.BusinessLogics\\Repository\\Implementations\\CouponRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwHIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:54:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.CouponApi\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.CouponApi\\Controllers\\CouponController.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.CouponApi\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.CouponApi\\Controllers\\CouponController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:17:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponServiceImplementation.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CouponServiceImplementation.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CouponServiceImplementation.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CouponServiceImplementation.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CouponServiceImplementation.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:41:01.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICouponService.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICouponService.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:39:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductServiceImplementation.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\ProductServiceImplementation.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\ProductServiceImplementation.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\ProductServiceImplementation.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\ProductServiceImplementation.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:19:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\IProductService.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:53:48.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\DTOs\\ShoppingCart\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\DTOs\\ShoppingCart\\ShoppingCartDto.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\DTOs\\ShoppingCart\\ShoppingCartDto.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\DTOs\\ShoppingCart\\ShoppingCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:16:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartServiceImplementation.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CartServiceImplementation.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CartServiceImplementation.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CartServiceImplementation.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Implementations\\CartServiceImplementation.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAuwDABAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:28:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICartService.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICartService.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Repository\\Services\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:19:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Controllers\\CartAPIController.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Controllers\\CartAPIController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:05:59.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\appsettings.json",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T09:52:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Program.cs",
+              "ToolTip": "G:\\Code\\MicroServices\\MicroservicesWithDotNet8\\Mango\\Mango\\Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Program.cs",
+              "RelativeToolTip": "Services\\Mango.Services.Shopping.Cart.API\\Mango.Service.Shopping.Cart.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:08:22.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

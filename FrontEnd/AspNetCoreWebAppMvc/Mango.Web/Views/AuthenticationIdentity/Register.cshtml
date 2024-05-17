@@ -1,0 +1,61 @@
+﻿@using Mango.Web.Models.AuthenticationModels.DTOs.RequestDto
+@model RegistrationRequestDto;
+
+<form method="post">
+    <div class="container border p-4">
+        <div class="row text-center p-3">
+            <h1>Register New User</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                @* This commented line with "asp-for-UserName" will send the empty or null data to parameter of Register Action method (Server) *@
+                @* <input asp-for-UserName="UserName" class="form-control" placeholder="UserName" /> *@
+                <input asp-for="UserName" class="form-control" placeholder="UserName" />
+                @* Individual Validation For UserName *@
+                <span asp-validation-for="UserName" class="text-danger" />
+            </div>
+
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                @* This commented line with "asp-for-Password" will send the empty or null data to parameter of Register Action method (Server) *@
+                @* <input asp-for-Password="Pass" class="form-control" placeholder="Password" /> *@
+                <input asp-for="Password" class="form-control" placeholder="Password" />
+                @* Individual Validation For Password *@
+                <span asp-validation-for="Password" class="text-danger" />
+            </div>
+
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                @* This commented line with "asp-for-Email" will send the empty or null data to parameter of Register Action method (Server) *@
+                @* <input asp-for-Email="Email" class="form-control" placeholder="Email" /> *@
+                <input asp-for="Email" class="form-control" placeholder="Email" />
+                @* Individual Validation For Email *@
+                <span asp-validation-for="Email" class="text-danger" />
+            </div>
+
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                @* This commented line with "asp-for-PhoneNumber" will send the empty or null data to parameter of Register Action method (Server) *@
+                @* <input asp-for-PhoneNumber="Phone Number" class="form-control" placeholder="Phone Number" /> *@
+                <input asp-for="PhoneNumber" class="form-control" placeholder="Phone Number" />
+                @* Individual Validation For Phone Number *@
+                <span asp-validation-for="PhoneNumber" class="text-danger" />
+            </div>
+
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                @* This commented line with "asp-for-Role" will send the empty or null data to parameter of Register Action method (Server) *@
+                @* <input asp-for-Role="Role" class="form-control" placeholder="Role" /> *@
+                <select asp-for="Role" class="form-select" asp-items="@ViewBag.Roles"></select>
+                @* Individual Validation For Role *@
+                <span asp-validation-for="Role" class="text-danger" />
+            </div>
+
+            <div class="col-12 col-md-6 offset-md-3 pb-2">
+                <button type="submit" class="form-control btn btn-success" value="Submit">Register</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+@* Client Side Validation *@
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

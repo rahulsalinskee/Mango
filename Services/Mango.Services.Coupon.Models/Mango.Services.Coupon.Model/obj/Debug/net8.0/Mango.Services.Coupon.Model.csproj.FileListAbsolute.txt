@@ -1,0 +1,12 @@
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\bin\Debug\net8.0\Mango.Services.Coupon.Model.deps.json
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\bin\Debug\net8.0\Mango.Services.Coupon.Model.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\bin\Debug\net8.0\Mango.Services.Coupon.Model.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.csproj.AssemblyReference.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.AssemblyInfoInputs.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.AssemblyInfo.cs
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.csproj.CoreCompileInputs.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\refint\Mango.Services.Coupon.Model.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\Mango.Services.Coupon.Model.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.Models\Mango.Services.Coupon.Model\obj\Debug\net8.0\ref\Mango.Services.Coupon.Model.dll

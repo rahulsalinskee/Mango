@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mango.Service.Shopping.Cart.API.props" />
+</Project>

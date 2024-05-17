@@ -1,0 +1,17 @@
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.deps.json
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.ApplicationDataContext.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.Model.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.ApplicationDataContext.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\bin\Debug\net8.0\Mango.Services.Coupon.Model.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.csproj.AssemblyReference.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.AssemblyInfoInputs.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.AssemblyInfo.cs
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.csproj.CoreCompileInputs.cache
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Se.3E8F312D.Up2Date
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\refint\Mango.Services.Coupon.BusinessLogics.dll
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\Mango.Services.Coupon.BusinessLogics.pdb
+G:\Code\MicroServices\MicroservicesWithDotNet8\Mango\Mango\Services\Mango.Services.Coupon.BusinessLogics\Mango.Services.Coupon.BusinessLogics\obj\Debug\net8.0\ref\Mango.Services.Coupon.BusinessLogics.dll
