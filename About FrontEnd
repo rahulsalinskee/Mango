@@ -1,0 +1,7 @@
+- This project also contains frontend basic project in C#
+
+- In order to run the UI, You need to do right click on the solution and select multiple projects as start up projects. In this case, you need to select all the projects as start up projects.
+
+- UI (Front end) is still not configred for showing shopping cart.
+
+- Shopping cart is only ready to use as Web API.
